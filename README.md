@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Parvin Farahzadeh 👋
+### I'm a Creative Developer, Junior Full-stack Engineer, and an Architect. 
 
-<!--
-**parvinfrzd/parvinfrzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=parvinfrzd&&show_icons=true" />
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working as a Creative Developer
+- 🌱 Learning Full-stack Web Development
+- 💬 Talk to me about AR/VR, robots and Drums 🥁
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<a href="https://www.linkedin.com/in/parvin-farahzadeh-8a643580/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/parvinfrzd"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
