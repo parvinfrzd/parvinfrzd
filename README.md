@@ -6,6 +6,7 @@
 - 🔭 I'm currently working as a Creative Developer
 - 🌱 Learning Full-stack Web Development
 - 💬 Talk to me about AR/VR, robots and Drums 🥁
+- 👻 Fun fact: I get attached to robots, and I love to roam around the city
 - 😄 Pronouns: She/Her
 
 ### Connect with me:
